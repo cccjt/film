@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {
+      "path": "pages/index",
+      "style": {
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/play",
+      "style": {}
+    }
+  ],
+  "easycom": {
+    "^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+  },
+  "globalStyle": {
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "navigationBarTitleText": "我的影院",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "animationType": "slide-out-right",
+    "rpxCalcMaxDeviceWidth": 560
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#707070",
+    "selectedColor": "#3390F5",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": []
+  },
+  "usingComponts": true,
+  "sitemapLocation": "sitemap.json"
+}

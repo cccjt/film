@@ -1,0 +1,11 @@
+Welcome to Ubuntu 20.04.2 LTS (GNU/Linux 5.4.0-66-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+Last login: Sun Mar 28 19:18:26 2021 from 58.60.153.233
+rm -rf /home/wwwroot/film
+exit
+root@hornetlucas:~# rm -rf /home/wwwroot/film
+root@hornetlucas:~# exit
+logout

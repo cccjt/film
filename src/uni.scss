@@ -1,0 +1,33 @@
+// @import 'uview-ui/theme.scss';
+
+$u-type-primary: #2979ff;
+$u-type-error: #fa3534;
+$u-type-warning: #ff9900;
+$u-type-success: #19be6b;
+$u-type-info: #909399;
+$u-type-primary-light: #ecf5ff;
+$u-type-error-light: #fef0f0;
+$u-type-warning-light: #fdf6ec;
+$u-type-success-light: #dbf1e1;
+$u-type-info-light: #f4f4f5;
+$u-type-primary-dark: #2b85e4;
+$u-type-error-dark: #dd6161;
+$u-type-warning-dark: #f29100;
+$u-type-success-dark: #18b566;
+$u-type-info-dark: #82848a;
+$u-type-primary-disabled: #a0cfff;
+$u-type-error-disabled: #fab6b6;
+$u-type-warning-disabled: #fcbd71;
+$u-type-success-disabled: #71d5a1;
+$u-type-info-disabled: #c8c9cc;
+
+$u-main-color: #37a862;
+$u-content-color: #cdcdcd;
+$u-tips-color: #909399;
+$u-light-color: #505050;
+$u-border-color: #e4e4e4;
+$u-bg-color: #1d1d1f;
+$u-form-item-border-color: #1d1d1f;
+$u-form-item-height: 70rpx;
+
+@import 'assets/styles/common.scss';

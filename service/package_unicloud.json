@@ -1,0 +1,11 @@
+{
+  "name": "demo-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "cloudfunction-config": {
+    "memorySize": 128,
+    "timeout": 5,
+    "path": "/http/express"
+  }
+}
